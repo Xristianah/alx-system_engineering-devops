@@ -1,1 +1,1 @@
-My Alx shell basic training
+My alx shell training
