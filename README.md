@@ -1,1 +1,1 @@
-i am working on shell variables and expansion
+My shell basic training programm
